@@ -1,0 +1,30 @@
+
+html {
+    background: #cfcfcf;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    background: rgb(255, 255, 255);
+}
+
+td {
+    width: 30px;
+    height: 30px;
+    border: 2px solid black;
+}
+
+.black {
+  background: black;
+}
+
+.white {
+  background: white;
+}
+
+.contents {
+  border: none;
+  text-align: center;
+  vertical-align: middle;
+}
